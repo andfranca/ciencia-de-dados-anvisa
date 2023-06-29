@@ -20,14 +20,8 @@ def criar_arquivo_csv():
         writer.writerow(['Coluna 1', 'Coluna 2', 'Coluna 3'])
         # Adicionar linhas adicionais ao arquivo, se necessário
 
-    print(f'Criado arquivo: {nome_arquivo}')
+    #print(f'Criado arquivo: {nome_arquivo}')
 
 # Chamar a função criar_arquivo_csv para criar um novo arquivo CSV
 criar_arquivo_csv()
-
-
-# In[ ]:
-
-
-
 
